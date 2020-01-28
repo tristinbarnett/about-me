@@ -4,13 +4,14 @@ nav {
 .jumbotron {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOIVA0kB03dzCyS_f0h56GiRl3zKLONlz0XJnhMa8El0TjYqsG) ;
 }
+img {
+      border:3px solid rgb(248, 201, 208);
+  }
+.line {
+      border-bottom:3px solid rgb(248, 201, 208);
+  }
 #sticky-footer {
     flex-shrink: none;
     background-color: lightgray;
-  }
-  img {
-      border:3px solid rgb(248, 201, 208);
-  }
-  .line {
-      border-bottom:3px solid rgb(248, 201, 208);
+    border-top:3px solid rgb(248, 201, 208) ;
   }
