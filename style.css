@@ -11,3 +11,6 @@ nav {
   img {
       border:3px solid rgb(248, 201, 208);
   }
+  .line {
+      border-bottom:3px solid rgb(248, 201, 208);
+  }
