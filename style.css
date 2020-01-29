@@ -1,3 +1,4 @@
+
 nav {
     background-color: rgb(248, 198, 206);
 }
@@ -15,3 +16,12 @@ img {
     background-color: lightgray;
     border-top:3px solid rgb(248, 201, 208) ;
   }
+  .height {
+      min-height: 100vh;
+  }
+  @media only screen and (min-width: 768px) {
+      .container {
+          width: 80%;
+      }
+  }
+ 
