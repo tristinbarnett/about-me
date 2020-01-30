@@ -30,14 +30,14 @@ img {
     background-color: lightgray;
     border-top:3px solid rgb(248, 201, 208) ;
   }
-  .height {
+.height {
       min-height: 100vh;
   }
-  @media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) {
       .container {
           width: 80%;
       }
   }
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
  
   }
