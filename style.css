@@ -8,6 +8,20 @@ nav {
 img {
       border:3px solid rgb(248, 201, 208);
   }
+.textBlock {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(248, 201, 208);
+    width: 100%;
+  }
+ .imgAlign {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 0;
+  }
 .line {
       border-bottom:3px solid rgb(248, 201, 208);
   }
@@ -25,5 +39,5 @@ img {
       }
   }
   @media screen and (max-width: 600px) {
-    
+ 
   }
