@@ -16,7 +16,7 @@ h1 {
     font-size: 3.75em;
     color: lightslategray;
 }
-img {
+img .container {
       border:3px solid rgb(248, 201, 208);
   }
 .indexImg {
@@ -51,7 +51,6 @@ img {
       min-height: 100vh;
     }
 
-  /*anything bigger than laptop*/
 @media only screen and (min-width:992px) {
     .container {
         width: 80%;
@@ -61,19 +60,17 @@ img {
         height: 25%;
     }
 }
-/*anything smaller than laptop*/
 @media only screen and (max-width: 991px) {
       .card {
           width: 100%;
           height: 100%;
       }
   }
-  /*any thing smaller than phone*/
 @media screen and (max-width: 600px) {
     .textBlock {
         font-size: 2em;
     }
-    .col-xs-12:first-child {
+    .col-12:first-child {
         margin-bottom:25px;
     }
     .navbar {
