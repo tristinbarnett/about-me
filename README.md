@@ -4,4 +4,4 @@ Week two homework assignment where we were asked to create a web application wit
 ## Deployed Application
 [About Me Profile Page](https://tristinbarnett.github.io/about-me/)
 
-![alt text](about-me-screenshot.png "Index page")
+![alt text](aboutme.png "Index page")
