@@ -1,0 +1,13 @@
+body{
+    background-color: lightgray;
+}
+.jumbotron {
+    background-image: url(imgs/jungleland.jpg);
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-color: antiquewhite;
+    text-align: center;
+    color: white;
+
+}
